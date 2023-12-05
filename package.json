@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-MicroFE",
+  "version": "1.0.0",
+  "description": "Portfolio Website (edspurrier.com) - Utilizing MicroFE, ReactJS, NextJS",
+  "main": "index.js",
+  "repository": "https://github.com/EdSpurrier/portfolio-MicroFE.git",
+  "author": "EdSpurrier <ed@edspurrier.com>",
+  "license": "MIT"
+}
